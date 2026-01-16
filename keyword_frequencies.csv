@@ -1,9 +1,9 @@
 Keyword,Frequency
 "slicermorph",98
 "scans",84
+"models",68
 "segmentation",64
 "student",63
-"models",63
 "morphometrics",59
 "course",53
 "microct",46
@@ -13,12 +13,12 @@ Keyword,Frequency
 "data",35
 "morphodepot",34
 "sicb",30
+"morphology",29
 "project",28
 "extraction",28
 "research",27
 "study",24
 "species",21
-"morphology",21
 "workflow",20
 "candidate",20
 "short",20
@@ -64,7 +64,6 @@ Keyword,Frequency
 "com",8
 "demo",8
 "poacher",8
-"morphological",8
 "overlap",8
 "usp",8
 "landmarking",7
@@ -147,7 +146,6 @@ Keyword,Frequency
 "start",4
 "module",4
 "approaches",4
-"meshes",4
 "better",4
 "among",4
 "dicect",4
@@ -1128,7 +1126,6 @@ Keyword,Frequency
 "automating",1
 "speciments",1
 "flow",1
-"mesh",1
 "slice",1
 "automate",1
 "enable",1

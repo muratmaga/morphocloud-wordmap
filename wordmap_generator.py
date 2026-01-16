@@ -91,6 +91,10 @@ CANONICAL_FORMS = {
     'model': 'models',
     'models': 'models',
     'modeling': 'models',
+    'mesh': 'models',
+    'meshes': 'models',
+    'morphology': 'morphology',
+    'morphological': 'morphology',
 }
 
 # Common first names to filter out
