@@ -42,6 +42,7 @@ STOP_WORDS = {
     # Banned words as requested
     'morphocloud', 'university', 'instance', 'create', 'created', 'creating',
     'participant', 'workshop', 'github', 'issue', 'well', 'attending', 'orcid',
+    'request', 'http', 'https',
     # Geographic locations
     'usa', 'america', 'american', 'states', 'united', 'california', 'texas', 'florida',
     'new', 'york', 'washington', 'oregon', 'colorado', 'arizona', 'utah', 'nevada',
@@ -73,6 +74,23 @@ CANONICAL_FORMS = {
     'segmentation': 'segmentation',
     'morphometric': 'morphometrics',
     'morphometrics': 'morphometrics',
+    'postdoctoral': 'postdoc',
+    'postdoc': 'postdoc',
+    'analyze': 'analysis',
+    'analyzes': 'analysis',
+    'analyzing': 'analysis',
+    'analysis': 'analysis',
+    'study': 'study',
+    'studying': 'study',
+    'studies': 'study',
+    'learn': 'learning',
+    'learning': 'learning',
+    'extract': 'extraction',
+    'extracting': 'extraction',
+    'extraction': 'extraction',
+    'model': 'models',
+    'models': 'models',
+    'modeling': 'models',
 }
 
 # Common first names to filter out

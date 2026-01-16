@@ -3,18 +3,20 @@ Keyword,Frequency
 "scans",84
 "segmentation",64
 "student",63
+"models",63
 "morphometrics",59
 "course",53
-"models",51
 "microct",46
 "slicer",40
+"analysis",40
 "specimens",36
 "data",35
 "morphodepot",34
 "sicb",30
 "project",28
+"extraction",28
 "research",27
-"extract",27
+"study",24
 "species",21
 "morphology",21
 "workflow",20
@@ -23,10 +25,10 @@ Keyword,Frequency
 "researcher",19
 "geometric",18
 "photogrammetry",18
+"postdoc",17
+"learning",17
 "undergraduate",17
-"analyze",16
 "shape",15
-"analysis",15
 "december",15
 "fossil",14
 "evolution",14
@@ -34,8 +36,6 @@ Keyword,Frequency
 "access",13
 "human",13
 "within",12
-"postdoc",12
-"study",12
 "scales",12
 "run",11
 "cloud",11
@@ -43,12 +43,10 @@ Keyword,Frequency
 "files",11
 "computer",11
 "surface",11
-"studying",11
 "variation",11
 "fish",11
 "family",11
 "software",11
-"learn",11
 "bone",11
 "large",10
 "eye",10
@@ -58,8 +56,6 @@ Keyword,Frequency
 "structures",9
 "various",9
 "anatomical",9
-"analyzing",9
-"https",9
 "analyses",8
 "see",8
 "bones",8
@@ -82,7 +78,6 @@ Keyword,Frequency
 "name",7
 "evolutionary",7
 "dataset",7
-"model",7
 "size",7
 "armor",7
 "sand",7
@@ -92,7 +87,6 @@ Keyword,Frequency
 "related",7
 "skull",6
 "extension",6
-"request",6
 "individual",6
 "focus",6
 "light",6
@@ -100,7 +94,6 @@ Keyword,Frequency
 "bird",6
 "first",6
 "description",6
-"learning",6
 "order",6
 "taking",6
 "performance",6
@@ -118,8 +111,6 @@ Keyword,Frequency
 "internal",5
 "students",5
 "deep-sea",5
-"modeling",5
-"postdoctoral",5
 "skeletal",5
 "mammals",5
 "digital",5
@@ -973,7 +964,6 @@ Keyword,Frequency
 "reconstrcut",1
 "already",1
 "performed",1
-"extraction",1
 "studant",1
 "algarve",1
 "date",1
@@ -1244,7 +1234,6 @@ Keyword,Frequency
 "involves",1
 "petrous",1
 "biodistance",1
-"studies",1
 "otters",1
 "murat",1
 "candidato",1
