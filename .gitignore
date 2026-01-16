@@ -1,0 +1,5 @@
+all_issues.json
+wordmap_env/
+__pycache__/
+*.pyc
+.DS_Store
