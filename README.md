@@ -4,7 +4,7 @@ A word cloud visualization of keywords extracted from all GitHub issues in the [
 
 ## Overview
 
-This project analyzes 456 GitHub issues (both open and closed) from the MorphoCloud repository to identify and visualize the most frequently mentioned keywords in the issue descriptions.
+This project analyzes 563 GitHub issues (both open and closed) from the MorphoCloud repository to identify and visualize the most frequently mentioned keywords in the issue descriptions.
 
 ## Results
 
@@ -12,16 +12,16 @@ This project analyzes 456 GitHub issues (both open and closed) from the MorphoCl
 
 ### Top 10 Keywords
 
-1. **slicermorph** (98) - Primary software platform
-2. **scans** (84) - CT/imaging data
-3. **segmentation** (64) - Image segmentation
-4. **student** (63) - User demographic
-5. **morphometrics** (59) - Analysis technique
-6. **course** (53) - Educational context
-7. **models** (51) - 3D models
-8. **microct** (46) - Micro-CT imaging
-9. **slicer** (40) - 3D Slicer software
-10. **specimens** (36) - Biological specimens
+1. **segmentation** (123) - Image segmentation
+2. **slicermorph** (109) - Primary software platform
+3. **course** (105) - Educational context
+4. **scans** (97) - CT/imaging data
+5. **student** (87) - User demographic
+6. **morphology** (80) - Form/structure analysis
+7. **models** (75) - 3D models
+8. **morphodepot** (72) - Data repository platform
+9. **morphometrics** (68) - Analysis technique
+10. **project** (67) - Research projects
 
 ## Data Processing
 
@@ -38,9 +38,9 @@ This project analyzes 456 GitHub issues (both open and closed) from the MorphoCl
 
 ### Statistics
 
-- Total issues processed: 456
-- Issues with descriptions: 441
-- Unique keywords identified: 1,422
+- Total issues processed: 563
+- Issues with descriptions: 547
+- Unique keywords identified: 1,591
 
 ## Files
 
@@ -83,4 +83,4 @@ MIT
 
 ## Date
 
-Generated: January 15, 2026
+Generated: June 6, 2026
